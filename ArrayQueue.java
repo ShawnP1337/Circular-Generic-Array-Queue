@@ -1,6 +1,6 @@
 
 class ArrayQueue<T> {
-
+ // Generic Circular Queue Implementation
  private int head;
  private int tail;
  private T arrQueue[];
